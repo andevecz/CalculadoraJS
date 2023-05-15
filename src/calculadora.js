@@ -5,5 +5,5 @@ function calculaResultado (a, b) {
 }
 
 module.exports = {
-    calculaResultado()
+    calculaResultado
 }
